@@ -12,6 +12,8 @@ import java.util.List;
  * y mantenibilidad.
  */
 
+// Comentario añadido para probar Github Actions
+
 
 public class ProcesadorUsuarios {
 
